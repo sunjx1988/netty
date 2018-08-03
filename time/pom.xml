@@ -9,7 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>echo-server</artifactId>
+    <artifactId>time-protocol</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>time-server</module>
+        <module>time-client</module>
+    </modules>
 
     <dependencies>
         <dependency>
