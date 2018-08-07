@@ -12,6 +12,7 @@
         <module>echo-server</module>
         <module>time</module>
         <module>common</module>
+        <module>heartbeat</module>
     </modules>
 
     <dependencyManagement>
